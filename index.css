@@ -1,0 +1,122 @@
+.youtube-link {
+    display: flex;
+    justify-content: flex-end;
+  
+}
+.main-header{
+    display: flex;
+    justify-content: center;
+    color: brown;
+    background-color: darkgoldenrod;
+}
+
+.paragraph, .list{
+    color: brown;
+}
+
+#main-div{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+
+}
+
+#main-div{
+    background-color: darkgoldenrod;
+}
+
+.header{
+    color: black;
+    background-color: goldenrod;
+}
+
+.header-2{
+    color: black;
+}
+
+.headers{
+     color: gold;
+}
+
+.cover-photo{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.detail {
+    width: 40vw;
+    margin-left: 63vh;
+    text-align: center;
+    background-color: black;
+    
+}
+
+#detail{
+    background-color: darkgoldenrod;
+}
+
+.bg{
+    color: crimson;
+}
+
+.form-input {
+    display: flex;
+    justify-content: space-between;
+}
+.form-input label,
+.form-input input {
+   margin: 12px;
+}
+
+
+.select {
+    margin: 12px 0;
+}
+
+ 
+
+.link-detail{
+    display: flex;
+    justify-content: center;
+}
+
+.main-link-detail{
+    background-color: dimgray;
+}
+
+.main-link {
+    margin-top: 100px;
+    margin: 12px;
+    color:gold;
+}
+
+.link{
+    display: flex;
+    justify-content: flex-end;
+    background-color: black;
+    color:whitesmoke;
+}
+
+.insta, .facebook, .youtube{
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+.mail{
+    width: 35px;
+    height: 30px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+.link-detail {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
